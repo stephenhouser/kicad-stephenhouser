@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid d0946b15-5c69-4d36-a108-4578da3f6172)
+
+  (paper "A4")
+
+  (title_block
+    (title "JLBPCB Board")
+    (date "2023-08-21")
+    (rev "v1.0")
+    (company "Stephen Houser, N1SH")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
